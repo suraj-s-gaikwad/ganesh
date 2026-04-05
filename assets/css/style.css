@@ -34400,7 +34400,7 @@ li.has-dropdown .submenu li.has-third-lev>a i {
   align-items: center;
   justify-content: space-between;
   line-height: 1;
-  background: var(--color-white);
+  /* background: var(--color-white); */
   border-radius: 4px;
   padding: 12px 20px;
   font-size: 16px;
@@ -37164,7 +37164,7 @@ header.header-three .main-nav>a {
 .contact-map iframe {
   height: 100%;
   border-radius: 10px;
-  filter: grayscale(1);
+  filter: none;
 }
 
 .tmp-top-contact-area {
